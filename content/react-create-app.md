@@ -1,10 +1,10 @@
 ---
-title: "Getting started with Create React App"
+title: "Installation"
 metaTitle: "Syntax Highlighting is the meta title tag for this page"
 metaDescription: "This is the meta description for this page"
 ---
 
-# Getting started with Create React App
+# Installation
 
 ### Theory
 1. [Create React App: Introduction](https://blog.logrocket.com/getting-started-with-create-react-app-d93147444a27/) 11 min read 
