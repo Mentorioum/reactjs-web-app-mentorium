@@ -17,9 +17,9 @@ metaDescription: "Understanding state and lifecycle"
 - Name
 - Phone number
 
->Hint: Use this data for render information:
+>Hint: Set this data to state and use it for render information:
 ```javascript
-{
+const contact = {
   image: 'http://cs7.pikabu.ru/images/big_size_comm_an/2014-03_7/13962622876915.gif',
   name: 'Darth Vader',
   phoneNumber: '+250966666666',
