@@ -15,7 +15,6 @@ metaDescription: "How to write event handlers in React"
 1. Update the contact page from previous homework, add the text input field under the contact info.
 1. Add button next to the input field, for save changes.
 1. Add the handler for select information item (name, phoneNumber, address) by click on it.
-1. After the select item and filled text to the input field, 
-by click on the save button, the value of the item should be changed 
-   to the text which was written in the input field.
+1. After the select item and filled text to the input field, the value of the item should be changed 
+   to the text which was written in the input field, by click on the save button.
 
