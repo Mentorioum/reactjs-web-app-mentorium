@@ -28,7 +28,6 @@ const config = {
     		"/codeblock"
 		],
 		"links": [
-			{ "text": "Hasura", "link": "https://hasura.io"},
 		],
 		"frontline": false,
 		"ignoreIndex": true,
