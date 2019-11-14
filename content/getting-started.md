@@ -1,7 +1,7 @@
 ---
-title: "Installation"
-metaTitle: "Installation"
-metaDescription: "Preparation of Workbook and getting started with coding"
+title: "Getting Started"
+metaTitle: "Getting Started"
+metaDescription: "Getting Started with the course and prepare workbook"
 ---
 
 # Theory
@@ -10,7 +10,7 @@ metaDescription: "Preparation of Workbook and getting started with coding"
 
 # Practice
 
-### Ex.1 - Prepare Workbook
+### Exercise.1 - Prepare Workbook
  
 - [Make a fork from this repo: Workbook](https://github.com/Mentorioum/reactjs-web-app-workbook)
 - Then, download the project, install node packages (npm i)
@@ -20,7 +20,7 @@ metaDescription: "Preparation of Workbook and getting started with coding"
 >you may found already prepared main file in: /src/App.js  
 
 
-### Ex.2 - Made changes and follow Git Flow
+### Exercise.2 - Made changes and follow Git Flow
 
 1. Make any changes within jsx render method, try for example to change
 the text within the paragraph tag, and make sure that these changes are displayed in the browser.
