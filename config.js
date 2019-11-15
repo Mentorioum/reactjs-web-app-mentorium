@@ -24,8 +24,9 @@ const config = {
 	},
 	"sidebar": {
 		"forcedNavOrder": [
-			"/introduction",
-    		"/codeblock"
+			"/getting-started",
+      "/jsx-rendering-coponents",
+      "/state-events-lists"
 		],
 		"links": [
 		],
