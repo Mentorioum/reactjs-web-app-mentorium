@@ -4,15 +4,21 @@ metaTitle: "State of Components, Handling Events"
 metaDescription: "Understanding State and Handling Events"
 ---
 
-# State of Components
+Section covers basic topics about component lifecycle, handling events, conventions for conditional rendering and 
+important nuances about rendering lists.
 
 # Theory
 1. [State & Lifecycle: Introduction](https://itnext.io/react-understanding-state-lifecycle-d45df5d2cf3f) [~15m read] 
 1. [State and Lifecycle: Official doc](https://reactjs.org/docs/state-and-lifecycle.html) [~25m read] 
+1. [Handling Events: Introduction](https://medium.com/javascript-in-plain-english/declaring-event-handlers-d63b17e170d9) [~15m read] 
+1. [Handling Events: Official doc](https://reactjs.org/docs/handling-events.html) [~10m read] 
+1. [8 React conditional rendering methods](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e/) [20m read] 
+1. [Conditional Rendering: Official doc](https://reactjs.org/docs/conditional-rendering.html) [~15m read] 
+1. [Lists and Keys: Official doc](https://reactjs.org/docs/conditional-rendering.html) [~20m read] 
 
 # Practice
 
-### Ex.1 - Create a contact page
+### Exercise.1 - Create a contact page
 
 1.Create a `Contact Card` component, which should contain the information of a user, with the following items:
 - Avatar
@@ -32,7 +38,7 @@ const CONTACT = {
 };
 ```
 
-### Ex.2 - Improve the contact page
+### Exercise.2 - Improve the contact page
 
 When you click on the contact avatar, 
 it should unfold (increase in height)
@@ -40,40 +46,19 @@ and should display additional information about the contact (address and email).
 
 >Hint: Use `onClick={handleClick}` for handle a click on the avatar.
 
-# Handling Events
-
-# Theory
-1. [Handling Events: Introduction](https://medium.com/javascript-in-plain-english/declaring-event-handlers-d63b17e170d9) [~15m read] 
-1. [Handling Events: Official doc](https://reactjs.org/docs/handling-events.html) [~10m read] 
-
-# Practice
-
-### Ex.3 - Add edit form to contact page
+### Exercise.3 - Add edit form to contact page
 1. Update the `Contact Card`, add the text input field under the contact info.
 1. Add button next to the input field, for save changes.
 1. Add the handler for select information item (name, phoneNumber, address) by click on it.
 1. After the select item and filled text to the input field, the value of the item should be changed 
    to the text which was written in the input field, by click on the save button.
 
-# Conditional Rendering
-
-# Theory
-1. [8 React conditional rendering methods](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e/) [20m read] 
-1. [Conditional Rendering: Official doc](https://reactjs.org/docs/conditional-rendering.html) [~15m read] 
-
-# Practice
-
-### Ex.4 - Conditional edit form 
+### Exercise.4 - Conditional edit form 
 1. Update the `Edit Form` add the edit button under the contact info.
 1. At the same time by default edit form, should be hidden. 
 1. By click on the edit button, it should be replaced with edit form and vice versa after click on the save.
 
-# Lists and Keys 
-
-# Theory
-1. [Lists and Keys: Official doc](https://reactjs.org/docs/conditional-rendering.html) [~20m read] 
-
-### Ex.5 - Create a contact list
+### Exercise.5 - Create a contact list
 
 1. Update the `Contact Page`, it should be contain a list of contacts.
 1. The contact item should be based on the `Contact Card`.
