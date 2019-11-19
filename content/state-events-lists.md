@@ -10,7 +10,7 @@ important nuances about rendering lists.
 # Theory
 1. [State & Lifecycle: Introduction](https://itnext.io/react-understanding-state-lifecycle-d45df5d2cf3f) [~15m read] 
 1. [State and Lifecycle: Official doc](https://reactjs.org/docs/state-and-lifecycle.html) [~25m read] 
-1. [Lifecycle, detailed overview: Official doc](https://reactjs.org/docs/react-component.html#the-component-lifecycle) [~35m read] 
+1. [Lifecycle, detailed overview: Official doc](https://reactjs.org/docs/react-component.html#the-component-lifecycle) [~40m read] 
 1. [Handling Events: Introduction](https://medium.com/javascript-in-plain-english/declaring-event-handlers-d63b17e170d9) [~15m read] 
 1. [Handling Events: Official doc](https://reactjs.org/docs/handling-events.html) [~10m read] 
 1. [8 React conditional rendering methods](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e/) [20m read] 
