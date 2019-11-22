@@ -27,3 +27,8 @@ In case if the user has been logged in, Hi {user.name}
 1. Add the rule of min length of the password (8 characters)
 1. Add the red lighting around the field, by using the red border, in a case if the field has an error,
 add the green lighting in a case if the field hasn't any error.
+1. Add the sucsees
+
+### Exercise.4 - Integration with Fire base
+- Connect form to Fire Base
+- Add the styles...
