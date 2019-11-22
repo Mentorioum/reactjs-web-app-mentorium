@@ -6,6 +6,7 @@ metaDescription: "Understanding Forms in React"
 
 # Theory
 1. [Forms: Official doc](https://reactjs.org/docs/forms.html) [~15m read]
+1. [Forms: The good overview related to the composition with forms](https://www.codementor.io/blizzerand/building-forms-using-react-everything-you-need-to-know-iz3eyoq4y) [~25m read]
 
 
 # Practice
