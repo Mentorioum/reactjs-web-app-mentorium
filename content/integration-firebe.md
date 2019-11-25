@@ -1,17 +1,17 @@
 ---
-title: "Forms"
+title: "Integration FireBase with Form"
 metaTitle: "Forms"
 metaDescription: "Understanding Forms in React"
 ---
 
 # Theory
-1. [Forms: Official doc](https://reactjs.org/docs/forms.html) [~15m read]
-1. [Forms: The good overview related to the composition with forms](https://www.codementor.io/blizzerand/building-forms-using-react-everything-you-need-to-know-iz3eyoq4y) [~25m read]
+1. [Firebase: Introduction](https://firebase.google.com/docs/emulator-suite) [~3m read]
+
 
 
 # Practice
 
-### Exercise.1 - Create a page, which should contain the (sign up / login) form.
+### Exercise.1 - Create a page, which should contain the (sign up) form.
 The form should contain, the next fields:
 - email
 - password
