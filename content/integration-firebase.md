@@ -27,11 +27,8 @@ on `Save` click, create a new user.
 >Hint: Take the following properties form the Firebase:
 ```javascript
  createUserWithEmailAndPassword(email, password);
-
  signInWithEmailAndPassword(email, password);
-
  signOut();
-
  user
 ```
 1. After the successful (sign-in / sign up) of the user, the form should be hidden.
