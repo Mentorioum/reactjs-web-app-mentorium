@@ -17,4 +17,7 @@ Improve the contact list which has been created earlier.
 1. Create a contact list wrapper which will be used like provider related to context api.
 2. Contact list component should be a consumer and gets the contact collection from  wrapper.
 
-### Exercise.2 - Create the 
+### Exercise.2 - Create Error Popup
+1. Popup should contains the basic information of the error.
+2. Add the `Details` button by clicking it should unfold the main content of the popup
+ (increase in height) and display additional information of the error.
