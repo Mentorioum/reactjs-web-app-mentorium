@@ -20,4 +20,4 @@ Improve the contact list which has been created earlier.
 ### Exercise.2 - Create Error Popup
 1. Popup should contains the basic information of the error.
 1. Add the `Details` button by clicking it should unfold the main content of the popup
- (increase in height) and display additional information of the error.
+ (increase in height) and display an additional information of the error.
