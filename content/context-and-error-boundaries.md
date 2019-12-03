@@ -13,7 +13,8 @@ metaDescription: "Understanding Context and Error Boundaries"
 # Practice
 
 ### Exercise.1 - Improve the contact list
-Improve the contact list which has been created earlier.
+Improve the contact list which has been created earlier
+
 1. Create a contact list wrapper which will be used like provider related to the context api.
 1. Contact list component should be a consumer and gets the contact collection from wrapper.
 
