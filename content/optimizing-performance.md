@@ -12,6 +12,10 @@ metaDescription: "Understanding Performance Optimization in React"
 
 # Practice
 
-### Exercise.1 - Optimization.
-1. Check the performance by using tools described in the theory, for example in the contact list component.
-1. Try to optimize the component, then check the differences in the performance.
+### Exercise - Optimization.
+1. Check the performance by using tools described in the theory, for example in the `ContactList` component.
+1. Measure the speed of the `ContactList` render, make a note of the time.
+1. Measure the speed of the `Contact Item` render of the Expand / Collapse.
+1. Добавить Pure and Memo и замерить сново 
+1. Add `Pure` if a component has made like `class` or Memo.
+1. After optimize check the differences by measuring the speed again.
