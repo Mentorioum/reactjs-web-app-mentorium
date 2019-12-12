@@ -4,7 +4,7 @@ metaTitle: "Code Splitting"
 metaDescription: "Understanding Code Splitting in React"
 ---
 
-# Theory
+### Theory
 1. [Code-Splitting: Official doc](https://reactjs.org/docs/code-splitting.html) [~15m read]
 1. [Code Splitting: Good overview and examples](https://itnext.io/react-code-splitting-in-2019-9a5d2776c502) [~30m read]
 1. [React Loadable: Overview](https://medium.com/@imranhsayed/code-splitting-in-react-using-react-loadable-load-code-on-demand-1726c5192387) [~7m read]
