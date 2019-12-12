@@ -14,5 +14,5 @@ metaDescription: "Understanding Code Splitting in React"
 
 ### Exercise - Add the suspense api to component
 1. Pay attention to the network tab in the development panel look on the API calls.   
-1. Choose the component from any homework, add the suspense API.
+1. Update the routes of the contact list by using the lazy loading.
 1. Check the difference related to the API calls. 
