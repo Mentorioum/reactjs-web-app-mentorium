@@ -7,16 +7,16 @@ metaDescription: "Component Composition, Elements and practical tasks"
 # Component Composition
 
 ### Theory
-1. [Composition vs Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html) 30 min read 
+1. [Composition vs Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html) [~30m read]
 
 # Practice
 
 ### Render this array by only one component with configure props.
 
-### 1 using props as much as you like 
-### 2 using only 3 props (name, description, children) 
-### 3 add possibility to go in folders (onClick),in objects with children
-### 4 add possibility to go out folders. add backbutton (onClick in back button),in objects with children 
+ 1. using props as much as you like 
+ 2. using only 3 props (name, description, children) 
+ 3. add possibility to go in folders (onClick),in objects with children
+ 4. add possibility to go out folders. add backbutton (onClick in back button),in objects with children 
 ```
     const foldersArray = [
         {
