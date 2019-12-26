@@ -19,9 +19,4 @@ export default {
   code: CodeBlock,
   inlineCode: props => <Code {...props} />,
   a: props => <AnchorTag {...props} />
-  // TODO add `img`
-  // TODO add `blockquote`
-  // TODO add `ul`
-  // TODO add `li`
-  // TODO add `table`
 };
