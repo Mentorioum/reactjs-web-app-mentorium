@@ -12,11 +12,13 @@ metaDescription: "Understanding the React Router"
 1. [React Router: Nesting](https://tylermcginnis.com/react-router-nested-routes/) [~30m read]
 1. [React Router: Nesting Official Example](https://reacttraining.com/react-router/web/example/nesting) [~7m read]
 
-# Practice - Add the routing to the `ContactList`
+# Practice - Add the routing to the ContactList
+
 1. You should add the separate page with additional info of the user,
-  instead of the unfolding block of information.
+ instead of the unfolding block of information.
 1. Edit form is also should be implemented as a separate page,
  that opens by clicking on the edit button which needs to add at the page of additional info.
 1. Add the nesting method to the following pages:
    - Additional info
    - Edit
+
